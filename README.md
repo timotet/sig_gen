@@ -9,11 +9,12 @@ The only thing I would maybe change is the way I displayed the waveform on the L
 Overall it works pretty well and I've used it quite a bit.
 
 Features:
-Variable frequency via an encoder.
-4 selectable waveforms via button select.
-Sine wave
-Triangle wave 
-Square wave
-Saw wave
+* Variable frequency via an encoder.
+- 4 selectable waveforms via button select.
+
+- Sine wave
+- Triangle wave 
+- Square wave
+- Saw wave
 
 ![sg_7_s](./images/sg_7_s.jpg)
